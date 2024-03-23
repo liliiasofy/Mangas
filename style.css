@@ -1,0 +1,89 @@
+h1{
+text-align: center;
+color: olive;
+font-family: sans-serif;
+}
+
+
+h2{
+text-align: center;
+color: rgba(132, 18, 18, 0.628);
+font-family: sans-serif;
+}
+
+
+body{
+background-color: papayawhip;
+}
+
+
+header img{
+height: 60px;width: 60px;
+}
+
+
+h3{
+color: green;
+text-align: center;
+font-size: 25px;
+font-family: Verdana;
+}
+
+
+main img{
+height:150x;
+width: 100px;
+}
+
+
+main p{
+font-size: 17px;
+color: rgb(16, 113, 146);
+font-family:monospace;
+}
+
+
+footer{
+font-size:17px;
+color: white;
+background-color: rgb(108, 67, 67);
+}
+
+
+nav a{
+text-decoration: none;
+color: rgb(21, 163, 99);
+font-family: cursive;
+transition:0.3;
+}
+
+
+nav a:hover{
+color:rgb(185, 23, 136);
+}
+
+
+html{
+scroll-behavior: smooth;
+}
+
+table{
+border:5px dotted green;
+border-collapse: collapse;
+background-color: rgb(175, 175, 241);
+}
+
+
+table tr{
+border:5px dotted green;
+}
+
+
+table td{
+border:5px dotted green;
+}
+
+.first-tr{
+background-color:rgb(47, 37, 84);
+color:white;
+}
